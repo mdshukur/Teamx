@@ -783,6 +783,14 @@ p{
     .slider_content{
       width: 100%;
     }
+ .mySwiper_1 .swiper-slide img,
+  .mySwiper_2 .swiper-slide img,
+  .mySwiper_3 .swiper-slide img,
+  .mySwiper_4 .swiper-slide img,
+  .mySwiper_5 .swiper-slide img {
+    max-height: 100px;
+    width: auto;
+  }
     .row-wrapper img{
         height: 100%;
       }
