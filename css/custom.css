@@ -819,7 +819,7 @@ p{
   .mySwiper_3 .swiper-slide img,
   .mySwiper_4 .swiper-slide img,
   .mySwiper_5 .swiper-slide img {
-    max-height: 80px;
+    max-height: 75px;
     width: auto;
   }
   }
